@@ -1,0 +1,11 @@
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\bin\Debug\netcoreapp2.0\hostedAPI.deps.json
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\bin\Debug\netcoreapp2.0\hostedAPI.runtimeconfig.json
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\bin\Debug\netcoreapp2.0\hostedAPI.runtimeconfig.dev.json
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\bin\Debug\netcoreapp2.0\hostedAPI.dll
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\bin\Debug\netcoreapp2.0\hostedAPI.pdb
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.csprojAssemblyReference.cache
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.AssemblyInfoInputs.cache
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.AssemblyInfo.cs
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.dll
+C:\Users\Ralph_Fonz\repos\hosted\hostedAPI\obj\Debug\netcoreapp2.0\hostedAPI.pdb
